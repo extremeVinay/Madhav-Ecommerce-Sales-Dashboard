@@ -1,6 +1,6 @@
 # Madhav-Ecommerce-Sales-Dashboard
 ## OBJECTIVE
-- Owner f Madhav Store wants us to help them create a dashboard to track and analyze their online sales across India
+- Owner of Madhav Store wants us to help them create a dashboard to track and analyze their online sales across India
 
 ## Project Learnings
 * Created interactive dashboard to track and analyze online sales data
